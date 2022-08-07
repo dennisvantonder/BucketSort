@@ -1,4 +1,4 @@
-# BucketSort
+# Development
 This repo is java code that replicates the Bubble Sort mobile game. 
 
 ## Description:
